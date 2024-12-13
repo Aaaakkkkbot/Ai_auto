@@ -4,9 +4,9 @@ app Flask_name_)
 
 @app.route("/")
 
-def hello world():
+def hello_world():
 
-return "Rahul
+return "Rahul"
 
 if name main":
 
