@@ -1,4 +1,15 @@
-pyrofork
+pyrogram
 tgcrypto
-dnspython
 motor
+cinemagoer
+aiohttp
+aiofiles
+asyncio
+Pillow
+Flask
+gunicorn
+speedtest
+googletrans
+requests
+gtts
+psutil
