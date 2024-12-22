@@ -11,7 +11,7 @@ START_TEXT = "{},\n\n𝖨 𝖼𝖺𝗇 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝖼𝖺�
 
 API_ID = int(env.get('API_ID', '21418386'))
 API_HASH = env.get('API_HASH', 'aeac46b1d123e82fe6dcb43b6a26cfae')
-BOT_TOKEN = env.get('BOT_TOKEN', '7746109405:AAGgi2J-weDitjwetXO8oiWtmOoJrZSI2cU')
+BOT_TOKEN = env.get('BOT_TOKEN', '77461:AAGgweDitjwetXO8oiWtmOoJrZSI2cU')
 DB_URL = env.get('DB_URL', 'mongodb+srv://TaktAsahina99:TaktAsahina99@cluster0.iq3cx2j.mongodb.net/?retryWrites=true&w=majority')
 ADMINS = int(env.get('ADMINS', '5496176944'))
 AUTH_CHANNEL = int(env.get('AUTH_CHANNEL', '-1001535524345'))
